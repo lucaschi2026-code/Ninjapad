@@ -1,2 +1,2 @@
-# Marcopad
+# Macropad
 Simple macropad project
