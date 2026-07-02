@@ -20,13 +20,15 @@ Bottom Shell:
 
 The shells are attached with the top over the bottom. The shells are secured with 4 M3x16mm screws.
 ## BOM
-- 1 Seeed XIAO RP2040
-- 9 through-hole 1N4148 Diodes
-- 9 MX-Style switches
-- 1 EC11 Rotary encoders
-- 1 0.91 inch OLED display
-- 9 white blank DSA keycaps
-- 4 M3x16mm screws
-- 4 M3x5mx4mm heatset inserts
-- 4 M3x5mm screws
-- 1 case (top and bottom shell)
+| Item | Qty |
+|------|-----|
+| Seeed XIAO RP2040 | 1 |
+| Through-hole 1N4148 Diode | 9 |
+| MX-Style Switch | 9 |
+| EC11 Rotary Encoder | 1 |
+| 0.91 inch OLED Display | 1 |
+| White Blank DSA Keycap | 9 |
+| M3x16mm Screw | 4 |
+| M3x5mmx4mm Heatset Insert | 4 |
+| M3x5mm Screw | 4 |
+| Case (top and bottom shell) | 1 |
